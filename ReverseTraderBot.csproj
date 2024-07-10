@@ -37,6 +37,9 @@
     <Reference Include="BotModels">
       <HintPath>LibReferences\BotModels.dll</HintPath>
     </Reference>
+    <Reference Include="Infrastructure">
+      <HintPath>LibReferences\Infrastructure.dll</HintPath>
+    </Reference>
     <Reference Include="Repository">
       <HintPath>LibReferences\Repository.dll</HintPath>
     </Reference>
